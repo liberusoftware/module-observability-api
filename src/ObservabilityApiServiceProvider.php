@@ -13,4 +13,3 @@ final class ObservabilityApiServiceProvider extends ServiceProvider
         $this->loadRoutesFrom(__DIR__.'/../routes/api.php');
     }
 }
-

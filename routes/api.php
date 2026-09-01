@@ -8,4 +8,3 @@ use Liberu\Foundation\ObservabilityApi\Http\Controllers\StatusController;
 Route::prefix('api/v1/observability')->middleware('api')->group(function (): void {
     Route::get('/status', StatusController::class)->name('observability-api.status');
 });
-
