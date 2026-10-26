@@ -22,7 +22,7 @@
       "source": "https://github.com/liberusoftware/module-observability-api"
     }
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "autoload-dev": {
     "psr-4": {
       "Liberu\\Foundation\\ObservabilityApi\\Tests\\": "tests/"
