@@ -3,7 +3,7 @@
   "name": "observability-api",
   "display_name": "Observability Api",
   "description": "Observability api presentation adapter.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "presentation",
   "provider": "Liberu\\Foundation\\ObservabilityApi\\ObservabilityApiServiceProvider",
   "requires": {
